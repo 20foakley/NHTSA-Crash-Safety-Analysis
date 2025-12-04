@@ -11,9 +11,9 @@ https://static.nhtsa.gov/nhtsa/downloads/FARS/Links%20for%20FARS%20Manuals.pdf
 
 - Load, clean, and analyze data for select years
 - Analyze relationships between the following and crash outcome:
-   -. Restraint use
+   - Restraint use
    - Injury severity
-   -. Occupant type/seating location
+   - Occupant type/seating location
    - Vehicle characteristics (eg. weight and class)
 - Complete visualizations to help answer questions such as:
    - How many occupants who lost their lives in a traffic accident were unrestrained?
