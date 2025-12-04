@@ -9,13 +9,13 @@ https://static.nhtsa.gov/nhtsa/downloads/FARS/Links%20for%20FARS%20Manuals.pdf
 
 ## **Objectives**
 
-1. Load, clean, and analyze data for select years
-2. Analyze relationships between the following and crash outcome:
-   2a. Restraint use
-   2b. Injury severity
-   2c. Occupant type/seating location
-   2d. Vehicle characteristics (eg. weight and class)
-3. Complete visualizations to help answer questions such as:
-   3a. How many occupants who lost their lives in a traffic accident were unrestrained?
-   3b. Are occupants of larger, heavier vehicles more protected in certain crashes?
-   3c. How do safety outcomes vary by year, region, or driver demographics?
+- Load, clean, and analyze data for select years
+- Analyze relationships between the following and crash outcome:
+   -. Restraint use
+   - Injury severity
+   -. Occupant type/seating location
+   - Vehicle characteristics (eg. weight and class)
+- Complete visualizations to help answer questions such as:
+   - How many occupants who lost their lives in a traffic accident were unrestrained?
+   - Are occupants of larger, heavier vehicles more protected in certain crashes?
+   - How do safety outcomes vary by year, region, or driver demographics?
