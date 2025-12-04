@@ -10,7 +10,7 @@ def main():
     print(person_df.info())
 
     # ---------------------------------------------------------
-    # Question 1 - out of everyone who died, how many were wearing their seatbelt?
+    # Question 1 - out of everyone who lost their life, how many were wearing their seatbelt?
     # ---------------------------------------------------------
 
     print(person_df['REST_USE'].unique()) 
