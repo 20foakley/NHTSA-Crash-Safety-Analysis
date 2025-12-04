@@ -1,4 +1,4 @@
-**Analyzing NHTSA Accident Data**
+# **Analyzing NHTSA Accident Data**
 This project explores the Fatality Analysis Reporting System (FARS) dataset published by the NHTSA. 
 The aim of this project is to derive insights about traffic fatalities in the US, with an overall focus on how factors such as **restraint use** or **vehicle type** can affect crash outcomes.
 While the dataset itself does not include any personally identifiable information, it is derived from individual events, each corresponding to a tragedy that has affected real people. 
@@ -7,7 +7,7 @@ This analysis is conducted with respect for those affected, with the hope that t
 The FARS user manual is located at this link, wherein the manual goes over the various .csv files included, their fields, and changes over the years.
 https://static.nhtsa.gov/nhtsa/downloads/FARS/Links%20for%20FARS%20Manuals.pdf
 
-**Objectives**
+## **Objectives**
 
 1. Load, clean, and analyze data for select years
 2. Analyze relationships between the following and crash outcome:
